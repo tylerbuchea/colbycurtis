@@ -1,0 +1,29 @@
+[
+  {
+    "description": "It's a new kind of cruise that combines your love of travel with your desire to make a difference.",
+    "details": "I built the Journey Planner for Fathom Cruises. The Journey Planner is a web application that cruise passengers use to manage their personal details, book shore excursions, print luggage tags, and many other mission critical interactions. This application still handles thousands of traveler requests per day.",
+    "tags": ["React", "Redux", "ES6", "Angular"],
+    "heroImg": "img/blog-nutrition.jpg",
+    "logoImg": "http://placehold.it/64x64",
+    "title": "Nutrition",
+    "url": "Get Nutrion Updates"
+  },
+  {
+    "description": "Adjoy is the first ad network for games that allows both game developers and the advertiser, big or small, to live together in perfect harmony.",
+    "details": "I was the lead API designer for this project and played a pivotal role in bringing their MVP product to production. Adjoy is a well funded startup looking to innovate the game advertisement space by allowing developers to integrate ads into their games as achievements to unlock rather than as annoying banners that block game play.",
+    "tags": ["Node", "Express", "Sails", "Mongo", "Heroku"],
+    "heroImg": "img/blog-motivation.jpg",
+    "logoImg": "http://placehold.it/64x64",
+    "title": "Motivation",
+    "url": "Get Motivation Updates"
+  },
+  {
+    "description": "The only app that lets you add products with product images to your WooCommerce store!",
+    "details": "I'm the creator and product owner of WooProducts. I saw a need for this app after working with clients who own an ecommerce store. WooProducts has a pretty sizeable user base and it is still growing.",
+    "tags": ["Ionic", "OAuth 1.0a", "WooCommerce API"],
+    "heroImg": "img/blog-fitness.jpg",
+    "logoImg": "http://placehold.it/64x64",
+    "title": "Fitness",
+    "url": "Get Fitness Updates"
+  }
+]
